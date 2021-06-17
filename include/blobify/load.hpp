@@ -14,6 +14,8 @@
 
 #include <cstddef>
 
+#include <algorithm>
+
 namespace blob {
 
 namespace detail {
